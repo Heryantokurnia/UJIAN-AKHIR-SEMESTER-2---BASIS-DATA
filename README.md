@@ -20,4 +20,4 @@
 <img width="642" alt="HERI5" src="https://github.com/Heryantokurnia/UJIAN-AKHIR-SEMESTER-2---BASIS-DATA/assets/141998024/47c971ef-95aa-4db1-84e0-928edd52fc50">
 
 -----------------------------------------------------------------------------------------------------------------------------------
-Create By : Account Owner
+`Create By : Account Owner`
